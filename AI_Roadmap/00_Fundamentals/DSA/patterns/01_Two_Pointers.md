@@ -62,15 +62,15 @@ Two common forms:
 
 ```mermaid
 flowchart LR
-S1[Init L & R] --> S2[Check condition on arr[L] and arr[R]]
-S2 -->|Condition satisfied| S3[Process or record output]
-S2 -->|Value too small| S4[Move left pointer]
-S2 -->|Value too large| S5[Move right pointer]
+S1[Initialize left and right pointers] --> S2[Evaluate values at both pointers]
+S2 -->|Condition satisfied| S3[Process or update result]
+S2 -->|Need larger value| S4[Move left pointer right]
+S2 -->|Need smaller value| S5[Move right pointer left]
 S3 --> S6{Continue scanning?}
 S4 --> S6
 S5 --> S6
 S6 -->|Yes| S2
-S6 -->|No| F[Return result]
+S6 -->|No| F[Return final result]
 ```
 
 ---
