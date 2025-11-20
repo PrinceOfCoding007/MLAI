@@ -1,7 +1,7 @@
-# Math_for_ML
+# SQL
 
 ## 📌 Overview
-This section covers **Math for ML** as part of the AI Engineering roadmap.
+This section covers **SQL** as part of the AI Engineering roadmap.
 
 ## 📁 What you should store here
 - Code
@@ -13,7 +13,7 @@ This section covers **Math for ML** as part of the AI Engineering roadmap.
 - Learning journal
 
 ## 🎯 Goals
-Become fully confident in **Math for ML** for production engineering and interviews.
+Become fully confident in **SQL** for production engineering and interviews.
 
 ## 🔥 Progress Checklist
 - [ ] Notes completed

@@ -1,7 +1,7 @@
-# Math_for_ML
+# Numpy
 
 ## 📌 Overview
-This section covers **Math for ML** as part of the AI Engineering roadmap.
+This section covers **Numpy** as part of the AI Engineering roadmap.
 
 ## 📁 What you should store here
 - Code
@@ -13,7 +13,7 @@ This section covers **Math for ML** as part of the AI Engineering roadmap.
 - Learning journal
 
 ## 🎯 Goals
-Become fully confident in **Math for ML** for production engineering and interviews.
+Become fully confident in **Numpy** for production engineering and interviews.
 
 ## 🔥 Progress Checklist
 - [ ] Notes completed
